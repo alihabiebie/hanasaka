@@ -1,0 +1,86 @@
+
+#title {
+    background-color: #ecdfc8;
+    padding-bottom: 70px;
+    color: #e3ab89;
+}
+
+#features {
+  padding: 2% 15% 7%;
+  text-align: center;
+}
+
+
+/**#e3ab89 d8a586 c99d82**/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.feature-p {
+  color: #8f8f8f;
+}
+
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.hanasaka-1 {
+  width: 100%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.nav-item{
+  padding: 0 1.125rem;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+}
+
+.shopping-button{
+  margin: 5% 3% 5% 0;
+}
+
+.iqbal {
+  width: 75%;
+  padding-bottom: 5%
+}
+
+.kukuh {
+  width: 75%;
+  padding-bottom: 5%
+}
+
+.owner-h2 {
+  margin-bottom: 18%;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
