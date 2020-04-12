@@ -10,7 +10,21 @@
   text-align: center;
 }
 
+#testimonials{
+    background-color: #ecdfc8;
+    text-align: center;
+}
 
+#pricing {
+  text-align: center;
+  padding: 2% 15% 3%;
+}
+
+#footer {
+  text-align: center;
+  padding: 0% 15% 0%;
+  background-color: #ecdfc8;
+}
 /**#e3ab89 d8a586 c99d82**/
 
 body {
@@ -26,6 +40,14 @@ h1 {
   font-weight: 600;
 }
 
+h2 {
+  margin-bottom: 18%;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #001651;
+}
+
+
 h3 {
   font-size: 1.6rem;
   font-weight: bold;
@@ -38,7 +60,6 @@ p {
 .feature-p {
   color: #8f8f8f;
 }
-
 
 .container-fluid {
   padding: 3% 15%;
@@ -74,13 +95,68 @@ p {
   padding-bottom: 5%
 }
 
+.iqbal-text {
+  color: #001651;
+}
+
 .kukuh {
   width: 75%;
   padding-bottom: 5%
 }
 
-.owner-h2 {
-  margin-bottom: 18%;
-  font-size: 2.5rem;
-  font-weight: bold;
+.kukuh-text {
+  color: #001651;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonials-h3 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #001651;
+  padding-bottom: 4%;
+}
+
+.danila {
+  width: 15%;
+  margin: 20px;
+}
+
+.ianaxis {
+  width: 15%;
+  margin: 20px;
+}
+
+.card-img-top1 {
+  width: 100%;
+  height: 50%;
+}
+
+.card-img-top2 {
+  width: 100%;
+  height: 50%;
+}
+
+.card-img-top3 {
+  width: 100%;
+  height: 50%;
+}
+
+.card {
+  height: 75%!important
+}
+
+.copy {
+  padding: 4% 0% 0%;
+}
+
+.bb{
+  padding: 0% 0% 0% 15%;
+}
+
+.cc {
+  padding: 0% 30% 0% 0%;
 }
