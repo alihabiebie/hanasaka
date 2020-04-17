@@ -17,7 +17,7 @@
 
 #pricing {
   text-align: center;
-  padding: 2% 15% 3%;
+  padding: 2% 15% 0%;
 }
 
 #footer {
@@ -149,7 +149,80 @@ p {
   height: 75%!important
 }
 
+.pricing-column {
+  padding: 0 3% 0;
+}
+
 .copy {
   padding: 4% 0% 0%;
 }
 
+@media (max-width: 991px) {
+
+#title {
+  text-align: center;
+}
+
+.hanasaka-1 {
+  width: 90%;
+}
+
+.form-inline {
+  display: block;
+}
+
+.h-100 {
+  width: 70%;
+  margin-left: 106px;
+}
+
+.donat2 {
+  height: 600px;
+}
+
+.donat {
+  height: 70%!important
+}
+
+.card-img-top3 {
+  width: 100%;
+  height: 60%;
+}
+
+
+}
+
+@media (max-width: 1024px) and (min-width: 992px) {
+
+.navbar {
+  width: 110%;
+}
+
+.form-control {
+  margin-left: 0;
+  width: 62%!important;
+}
+
+.hanasaka-1 {
+  width: 120%;
+  padding-top: 80px;
+}
+
+.card {
+  height: 95%!important;
+}
+
+.text2 {
+  padding-top: 20px;
+  padding-bottom: 2px;
+}
+
+.text3 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+
+
+
+
+}
